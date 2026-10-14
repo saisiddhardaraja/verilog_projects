@@ -1,4 +1,4 @@
-# Programmable PWM Generator with Dead Time Insersion Using Verilog
+# Programmable PWM Generator with Dead Time Insertion Using Verilog
 
 ## Project Overview
 
